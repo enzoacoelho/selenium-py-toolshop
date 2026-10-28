@@ -1,3 +1,5 @@
+![Selenium Python Gherkin Banner](assets/banner.jpg)
+
 # 🛠️ Practice Software Testing - Selenium BDD Automation
 
 Suíte de testes automatizados BDD utilizando **Cucumber (via Behave)**, **Gherkin**, **Selenium WebDriver** e o padrão **Page Object Model (POM)**, cobrindo os fluxos críticos de autenticação e registro da aplicação [Practice Software Testing](https://practicesoftwaretesting.com/).
