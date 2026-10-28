@@ -1,4 +1,4 @@
-![Selenium Python Gherkin Banner](assets/banner.jpg)
+![Selenium Python Gherkin Banner](banner.jpg)
 
 # 🛠️ Practice Software Testing - Selenium BDD Automation
 
